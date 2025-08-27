@@ -102,7 +102,7 @@ npm start
 
 ### 🔹 Clone the Repository  
 ```bash
-git clone https://github.com/your-username/RealMillet.git
+git clone https://github.com/priyanshi496/RealMillet.git
 cd RealMillet
 
 ```
