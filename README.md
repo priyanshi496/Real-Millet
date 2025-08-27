@@ -109,11 +109,11 @@ cd RealMillet
 
 ## 🚀 Future Enhancements
 
--Recipe Integration: Inspire users with millet-based recipes
+- Recipe Integration: Inspire users with millet-based recipes
 
--Personalized Recommendations: AI-driven product suggestions
+- Personalized Recommendations: AI-driven product suggestions
 
--Subscription Model: Easy recurring orders with loyalty discounts
+- Subscription Model: Easy recurring orders with loyalty discounts
 
--Mobile App: Native iOS & Android apps for wider reach
+- Mobile App: Native iOS & Android apps for wider reach
 
