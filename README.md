@@ -71,15 +71,15 @@ To encourage healthy eating habits by providing a wide variety of millet product
 
 ### Setup Environment Variables 
 #### Create a .env file inside the server folder with the following content:
--PORT=8080
--MONGODB_URI=your_mongodb_connection_string
--STRIPE_SECRET_KEY=your_stripe_secret_key
--JWT_SECRET=your_jwt_secret
+- PORT=8080
+- MONGODB_URI=your_mongodb_connection_string
+- STRIPE_SECRET_KEY=your_stripe_secret_key
+- JWT_SECRET=your_jwt_secret
 
 #### Create a .env file inside the client folder (for frontend configuration):
 
--VITE_API_URL=http://localhost:8080
--VITE_STRIPE_PUBLIC_KEY=your_stripe_publishable_key
+- VITE_API_URL=http://localhost:8080
+- VITE_STRIPE_PUBLIC_KEY=your_stripe_publishable_key
 
 ##🔹 Run the Client (Frontend)
 ```bash
