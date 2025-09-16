@@ -62,6 +62,7 @@ const Footer = () => {
       <div 
         className='w-full h-48 bg-no-repeat bg-cover bg-center'
         style={{ backgroundImage: `url(${footerBackground})` }}
+        loading = "lazy"
       >
         {/* This div is just for the background image */}
       </div>
